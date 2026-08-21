@@ -1,9 +1,8 @@
 import os
 import cv2
 import numpy as np
-import customtkinter as ctk
-from tkinter import filedialog, messagebox
-from PIL import Image, ImageTk
+import streamlit as st
+from PIL import Image
 
 
 APP_TITLE = "Image Processing Studio"
