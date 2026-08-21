@@ -57,7 +57,7 @@ Uses processing kernels to perform transformations and extract information from 
 
 ## 🚀 Live Demo
 
-[**Open Image Processing Laboratory – Streamlit**](https://my-image-processing.streamlit.app/)
+[**Open Image Processing Laboratory – Streamlit**](https://kny4gnrkxrkk7czektwjjy.streamlit.app/)
 
 The application is deployed using Streamlit and can be accessed through the live demo link above.
 
